@@ -1,0 +1,53 @@
+{
+  "app": {
+    "title": "Historical Figures Meeting Room",
+    "subtitle": "Let ancients discuss modern events"
+  },
+  "home": {
+    "title": "Start a New Discussion",
+    "topic_label": "Discussion Topic",
+    "topic_placeholder": "Enter an event or topic, e.g., What if 9/11 never happened?",
+    "character_label": "Select Participants",
+    "rounds_label": "Discussion Rounds",
+    "random_select": "Random Select",
+    "start_discussion": "Start Discussion",
+    "min_characters": "Select at least 2 characters"
+  },
+  "topics": {
+    "change": "Change",
+    "refresh": "Refresh",
+    "auto_update": "Auto-updates every {hours} hour(s)",
+    "refreshed": "Manually refreshed",
+    "source": "Source",
+    "no_topics": "No topics available"
+  },
+  "simulation": {
+    "title": "Discussion in Progress",
+    "round": "Round {n}",
+    "next": "Next Round",
+    "finish": "Finish",
+    "thinking": "Thinking..."
+  },
+  "result": {
+    "title": "Discussion Result",
+    "back": "Back to Home",
+    "export": "Export"
+  },
+  "categories": {
+    "technology": "Technology",
+    "business": "Business",
+    "science": "Science",
+    "health": "Health",
+    "sports": "Sports",
+    "entertainment": "Entertainment",
+    "politics": "Politics",
+    "economy": "Economy",
+    "environment": "Environment",
+    "society": "Society"
+  },
+  "nav": {
+    "home": "Home",
+    "characters": "Characters",
+    "history": "History"
+  }
+}

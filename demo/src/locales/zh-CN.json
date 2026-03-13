@@ -1,0 +1,53 @@
+{
+  "app": {
+    "title": "历史人物会议室",
+    "subtitle": "让古人讨论现代大事"
+  },
+  "home": {
+    "title": "开始新的讨论",
+    "topic_label": "讨论议题",
+    "topic_placeholder": "输入一个事件或话题，例如：911事件发生，世界格局如何演变？",
+    "character_label": "选择参与人物",
+    "rounds_label": "讨论轮数",
+    "random_select": "随机选择",
+    "start_discussion": "开始讨论",
+    "min_characters": "至少选择2个人物"
+  },
+  "topics": {
+    "change": "换一个",
+    "refresh": "刷新",
+    "auto_update": "{hours}小时自动更新",
+    "refreshed": "已手动刷新",
+    "source": "来源",
+    "no_topics": "暂无话题"
+  },
+  "simulation": {
+    "title": "讨论进行中",
+    "round": "第 {n} 轮",
+    "next": "下一轮",
+    "finish": "结束讨论",
+    "thinking": "思考中..."
+  },
+  "result": {
+    "title": "讨论结果",
+    "back": "返回首页",
+    "export": "导出记录"
+  },
+  "categories": {
+    "technology": "科技",
+    "business": "商业",
+    "science": "科学",
+    "health": "健康",
+    "sports": "体育",
+    "entertainment": "娱乐",
+    "politics": "政治",
+    "economy": "经济",
+    "environment": "环境",
+    "society": "社会"
+  },
+  "nav": {
+    "home": "首页",
+    "characters": "人物库",
+    "history": "历史记录"
+  }
+}
