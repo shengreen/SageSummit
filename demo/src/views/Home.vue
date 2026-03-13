@@ -243,7 +243,9 @@ onMounted(async () => {
 
   try {
     // 并行加载人物（必须）和话题（后台）
+    console.log('开始加载人物...')
     const charsRes = await getCharacters()
+    console.log('人物数据:', charsRes)
     characters.value = charsRes.data.characters || []
 
     // 后台异步加载真实RSS话题

@@ -1,0 +1,23 @@
+# 依赖
+node_modules
+demo/dist/
+
+# 环境变量（包含 API Key）
+.env
+
+# 数据目录
+backend/data/history/
+backend/data/vector_db/
+backend/data/books/
+
+# Python 缓存
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
